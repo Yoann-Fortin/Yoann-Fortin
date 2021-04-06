@@ -6,7 +6,9 @@ Hi, I'm Yoann Fortin, freshly reconverted in web development after a career in t
 ## Why this reconversion?
 
 After multiple shoulder dislocations, and the operations that go with them, I had no choice but to change careers.   
+
 >A bad thing for a good thing   
+
 I discovered a world more in line with my way of being. 
 
 ## What I am doing now
@@ -16,8 +18,8 @@ After six months of training at the O'Clock school, I continued to learn about d
 In addition to watching various conferences and tutorials on the subject, I also read Clean Code by Robert C. Martin (nicknamed Uncle Bob), but also TDD by example by Kent BECK.   
 Next books on my Roadmap,
 
-*Growing Object-Oriented Software, Guided by Tests by Steve Freeman Nat Pryce
-*Design Patterns -- Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (nicknamed the Gang of Four).
+* Growing Object-Oriented Software, Guided by Tests by Steve Freeman Nat Pryce
+* Design Patterns -- Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (nicknamed the Gang of Four).
 
 ## My major projects
 
@@ -31,21 +33,21 @@ Le P'tit Homme en Bleu is a personal blog to centralize all the resources that w
 
 In Front:
 
-*HTML
-*CSS | SCSS
-*JavaScript | TypeScript
-*ReactJS | Redux | And a first experience on VueJS
+* HTML
+* CSS | SCSS
+* JavaScript | TypeScript
+* ReactJS | Redux | And a first experience on VueJS
 
 
 In Back:
 
-*PHP
-*NodeJS
+* PHP
+* NodeJS
 
 
 Test Frameworks:
-*Cypress
-*Jest
+* Cypress
+* Jest
 
 
 
