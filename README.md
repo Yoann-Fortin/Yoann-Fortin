@@ -21,7 +21,7 @@ remote-first, or on-site / hybrid within Lille, Lens, Béthune, Arras
 
 ## Reach me
 
-- Email : yoann.fortin@bariafurii.com
+- yoann.fortin@bariafurii.com
 - [LinkedIn](https://www.linkedin.com/in/yoann-fortin)
 - [My Blog on a11y (accessibility)](https://todai.bariafurii.com)
 - [More about me](https://bariafurii.com/en/about/)
